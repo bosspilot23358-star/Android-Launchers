@@ -1,0 +1,8 @@
+build/
+sdk/
+.gradle/
+local.properties
+*.apk
+libs/*.aar
+libs/*.zip
+libs/*.part
